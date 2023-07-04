@@ -1,6 +1,6 @@
-# Clubs_Docker
+# Words_Project
 
-# LAB - Class 31
+# LAB - Class 32
 
 ## Project: word_project
 ---
