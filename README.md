@@ -1,6 +1,6 @@
 # Words_Project
 
-# LAB - Class 32
+# LAB - Class 33
 
 ## Project: word_project
 ---
